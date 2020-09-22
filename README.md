@@ -44,7 +44,7 @@ Depolying the contracts to Kovan:
 
 Carrying out the purchase transactions for tokens and checking the balance after successful transaction:
 <p align="center">
-<img src="./images/TGC_Balance.png?raw=true" alt="Smart contract"/>
+<img src="./images/TGC_balance.png?raw=true" alt=""/>
 </p>
 <br>
 
