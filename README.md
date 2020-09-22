@@ -47,6 +47,7 @@ After testing the contracts locally and making sure they work as expected, we de
 <img src="./images/TGC_Balance.png?raw=true" alt="Smart contract"/>
 </p>
 <br>
+
  
 
  Transaction confirmation:
