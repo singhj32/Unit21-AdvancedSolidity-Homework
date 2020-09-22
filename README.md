@@ -38,7 +38,7 @@ After testing the contracts locally and making sure they work as expected, we de
 
  Depolying the contracts to Kovan:
 <p align="center">
-<img src="./images/TGC_Deployment.png?raw=true" alt="Smart contract"/>
+<img src="./images/TGC_Deployments.png?raw=true" alt="Smart contract"/>
 </p>
 <br>
 
