@@ -36,13 +36,13 @@ After testing the contracts locally and making sure they work as expected, we de
 </p>
 <br>
 
- Depolying the contracts to Kovan:
+Depolying the contracts to Kovan:
 <p align="center">
-<img src="./images/TGC_Deployment2.png?raw=true" alt="Smart contract"/>
+<img src="./images/TGC_Deployment.png?raw=true" alt="Smart contract"/>
 </p>
 <br>
 
- Carrying out the purchase transactions for tokens and checking the balance after successful transaction:
+Carrying out the purchase transactions for tokens and checking the balance after successful transaction:
 <p align="center">
 <img src="./images/TGC_Balance.png?raw=true" alt="Smart contract"/>
 </p>
@@ -50,7 +50,7 @@ After testing the contracts locally and making sure they work as expected, we de
 
  
 
- Transaction confirmation:
+Transaction confirmation:
 <p align="center">
 <img src="./images/TGC_transaction_Confirmation.png?raw=true" alt="Smart contract"/>
 </p>
